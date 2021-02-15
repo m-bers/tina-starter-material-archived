@@ -1,0 +1,24 @@
+{
+  "menuItems": [
+    {
+      "label": "Home",
+      "link": "/",
+      "icon": "home"
+    },
+    {
+      "label": "About",
+      "link": "/about",
+      "icon": "help"
+    },
+    {
+      "label": "Blog",
+      "link": "/blog",
+      "icon": "book"
+    },
+    {
+      "label": "Contact",
+      "link": "/contact",
+      "icon": "contact_mail"
+    }
+  ]
+}
